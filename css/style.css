@@ -14,14 +14,14 @@ body{
 
 ul {
    
-	 font-family: Roboto, sans-serif;
-	 font-size: .8em;
-	 color: gray;
+   font-family: Roboto, sans-serif;
+   font-size: .8em;
+   color: gray;
     list-style-type: none;
     margin: 0;
     padding: 0;
     overflow: hidden;
-    background-color: #333;
+    background-color: #004D40;
 -webkit-box-shadow: -1px 31px 58px 20px rgba(222,215,222,0.1);
 -moz-box-shadow: -1px 31px 58px 20px rgba(222,215,222,0.1);
 box-shadow: -1px 31px 58px 20px rgba(222,215,222,0.1);
@@ -32,9 +32,9 @@ li {
 }
 
 li a {
-    	 font-family: Roboto, sans-serif;
+       font-family: Roboto, sans-serif;
     display: block;
-    color: 00C5BE;
+    color: #26A69A;
     font-weight: 900;
     text-align: center;
     padding: 8px 12px;
@@ -104,7 +104,7 @@ li a:hover {
 
 
 h1 { 
-    color: 00A4D1;
+    color: #009688;
     font-family: Oswald, sans-serif;
     display: block;
     font-size: 3.5em;
@@ -117,7 +117,7 @@ h1 {
 
 h1 a:link,
 h1 a:visited {
-    color: #00594E;
+    color: #2196F3;
 }
 
 #buttons a:link,
@@ -162,7 +162,7 @@ h3 {
 
 
 #about { 
-    color: 00846F;
+    color: #26A69A;
     font-family: Oswald, sans-serif;
     display: block;
     text-align: center;
@@ -174,7 +174,7 @@ h3 {
 }
 
 #contenth1 { 
-    color: 00594E;
+    color: #2196F3;
     font-family: Oswald, sans-serif;
     display: block;
     text-align: center;
@@ -367,6 +367,7 @@ font-size: 1.5em;
                                                             clear: both;
                                                             height: 0;
                                                         }
+
 
 
 
